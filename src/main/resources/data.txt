@@ -1,0 +1,27 @@
+
+INSERT INTO BOOK VALUES(1, 'Counsel on Health',1);
+INSERT INTO TEST VALUES(1, 'Ellen . G . White');
+
+INSERT INTO BOOK VALUES(2, 'The Great Controversy,1);
+INSERT INTO TEST VALUES(2, 'Ellen . G . White');
+
+
+INSERT INTO BOOK VALUES(3, 'Seer of Patmos',3);
+INSERT INTO TEST VALUES(3, 'Steven Haskell');
+
+INSERT INTO BOOK VALUES(4, 'General Conference Bulletin',4);
+INSERT INTO TEST VALUES(4, 'James White');
+
+INSERT INTO BOOK VALUES(5, 'Counsels on Diet and foods'1);
+INSERT INTO TEST VALUES(5, 'Ellen . G . White');
+
+
+NSERT INTO BOOK VALUES(2, 'The Great Controversy', 2);
+INSERT INTO BOOK VALUES(3, 'Seer of Patmos', 3);
+INSERT INTO BOOK VALUES(4, 'General Conference Bulletin', 4);
+INSERT INTO BOOK VALUES(5, 'Counsels on Diet and foods', 5);
+INSERT INTO AUTHOR VALUES(2, 'Ellen . G . White');
+INSERT INTO AUTHOR VALUES(3, 'Ellen . G . White');
+INSERT INTO AUTHOR VALUES(4, 'Ellen . G . White');
+INSERT INTO AUTHOR VALUES(5, 'Ellen . G . White');
+INSERT INTO AUTHOR VALUES(1, 'Ellen . G . White');
