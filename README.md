@@ -1,5 +1,5 @@
 # bookcatalog
-bookcatalog is a Digital Library catalog system whichh helps manage Library book information and associated authors
+bookcatalog is a Digital Library catalog system which helps manage Library book information and associated authors
 
 Technical information and specifications
 
